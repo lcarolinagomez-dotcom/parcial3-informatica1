@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagnosticReport xmlns="http://hl7.org/fhir">
+    <id value="diag-2026-89"/>
+    <patientId>PAT-105928</patientId>
+    <category>Cardiologia Pediatrica</category>
+    <conclusion>Paciente cursa con taquicardia sinusal febril. En observacion continua y manejo termico.</conclusion>
+    <physician>Dra. Elena Restrepo</physician>
+</DiagnosticReport>

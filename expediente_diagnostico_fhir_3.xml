@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagnosticReport xmlns="http://hl7.org/fhir">
+    <id value="diag-2026-90"/>
+    <patientId>PAT-573019</patientId>
+    <category>Neurologia</category>
+    <conclusion>Monitoreo electroencefalografico dentro de limites normales post-intervencion neuroquirurgica.</conclusion>
+    <physician>Dr. Mateo Botero</physician>
+</DiagnosticReport>

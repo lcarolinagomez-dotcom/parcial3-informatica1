@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagnosticReport xmlns="http://hl7.org/fhir">
+    <id value="diag-2026-88"/>
+    <patientId>PAT-849203</patientId>
+    <category>Cardiologia</category>
+    <conclusion>Paciente hemodinamicamente estable. Continuar monitoreo en UCIP.</conclusion>
+    <physician>Dr. Juan Perez</physician>
+</DiagnosticReport>

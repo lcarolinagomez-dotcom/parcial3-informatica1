@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Observation xmlns="http://hl7.org/fhir">
+    <id value="obs-2026-002"/>
+    <status value="final"/>
+    <subject>
+        <reference value="PAT-105928"/>
+    </subject>
+    <effectiveDateTime value="2026-10-14T11:00:00Z"/>
+    <vitalSigns>
+        <sign name="Frecuencia Cardiaca" value="110" unit="bpm"/>
+        <sign name="Presion Arterial Sistolica" value="105" unit="mmHg"/>
+        <sign name="Presion Arterial Diastolica" value="65" unit="mmHg"/>
+        <sign name="Saturacion Oxigeno" value="95" unit="%"/>
+    </vitalSigns>
+</Observation>
